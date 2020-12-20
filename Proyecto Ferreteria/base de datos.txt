@@ -1,0 +1,9 @@
+002  8483  pala  S/E  herramientas  400  200  120000  USA  F  hector_salda¤a  p-02  martin_perez  Si  03-04-18
+003  353  cemento  S/E  construccion  250  200  20500  Mexico  H  javier_lopez  p-03  pedro_flores  No  03-05-18
+004  230  varilla  S/E  construccion  120  300  1234545  Mexico  J  jair_david  p-05  lorenzo_flores  No  03-06-18
+006  322  cortadora  Taiwan  herramientas  800  100  129993  Taiwan  K  hector_salda¤a  p-06  carlos_moreno  Si  04-05-18
+007  583  tubos  S/E  subterraneo  1300  2000  300122  China  A  javier_lopez  p-07  ricardo_perez  No  05-06-18
+008  9292  ladrillo  S/E  construccion  20  90000  123444  Mexico  L  javier_lopez  p-08  juan_gutierrez  No  12-12-18
+009  111  tinaco  S/E  servicio  400  12000  900123  Canada  W  jair_david  p-09  ïpedro_carbajal  Si  09-23-18
+010  400  grava  S/E  construccion  1200  50000  4200021  Mexico  M  hector_salda¤a  p-10  martin_blanco  No  03-09-18
+0012  1232  tinaco  S/E  plomeria  120034  200  123434  USA  s  JAIR  P-0012  JAVIER  NO  12-04-18
