@@ -2,7 +2,7 @@
 
 This was a project from my highschool, It consists of a system that can manage the inventory of a hardware store, performing basic operations (CRUD) using a text plain database.
 
-#Pending
+# Pending
 
 I need to refactor the code, I made this program 4 years ago when I was learning OOP in my high school
 
